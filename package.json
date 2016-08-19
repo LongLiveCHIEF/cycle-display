@@ -1,0 +1,15 @@
+{
+  "name": "cycle-window-driver",
+  "version": "1.0.0",
+  "description": "A Window Driver for cycle.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape ./test | faucet"
+  },
+  "author": "Brian Vanderbusch <brian.vanderbusch.qsho@statefarm.com> (https://github.com/CHIEFnChowCombo)",
+  "license": "MIT",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.6.0"
+  }
+}
