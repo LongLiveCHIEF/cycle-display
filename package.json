@@ -1,5 +1,5 @@
 {
-  "name": "cycle-window-driver",
+  "name": "@h3/cycle-display",
   "version": "1.0.0",
   "description": "A Window Driver for cycle.js",
   "main": "index.js",
